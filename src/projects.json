@@ -1,0 +1,52 @@
+{
+"projects": [
+    {
+    "title_project": "Projeto 1",
+    "caracteristica_1": "Funcionalidade 1",
+    "caracteristica_2": "Funcionalidade 2",
+    "caracteristica_3": "Funcionalidade 3",
+    "caracteristica_4": "Funcionalidade 4",
+
+    "tecnologia1": "React",
+    "tecnologia2": "HTML",
+    "tecnologia3": "CSS",
+
+    "tecnologia1Count": 70,
+    "tecnologia2Count": 50,
+    "tecnologia3Count": 40,
+
+    "number_project": 1,
+
+    "link_projeto": "https://github.com/JulioCesar012",
+    "imagem_projeto": "./assets/img/image1.jpg",
+    "key": 1,
+    
+    "projeto_view": "https://github.com/JulioCesar012",
+    "projeto_github": "https://github.com/JulioCesar012"
+}, 
+
+{
+    "title_project": "Projeto 2",
+    "caracteristica_1": "Funcionalidade 1",
+    "caracteristica_2": "Funcionalidade 2",
+    "caracteristica_3": "Funcionalidade 3",
+    "caracteristica_4": "Funcionalidade 4",
+
+    "tecnologia1": "HTML",
+    "tecnologia2": "CSS",
+    "tecnologia3": "Javascript",
+
+    "tecnologia1Count": 30,
+    "tecnologia2Count": 20,
+    "tecnologia3Count": 50,
+
+    "number_project": 2,
+
+    "link_projeto": "https://github.com/JulioCesar012",
+    "imagem_projeto": "./assets/img/image2.jpg",
+    "key": 2,
+
+    "projeto_view": "https://github.com/JulioCesar012",
+    "projeto_github": "https://github.com/JulioCesar012"
+}]
+}
